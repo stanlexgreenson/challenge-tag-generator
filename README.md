@@ -22,3 +22,6 @@ A `challenges.txt` file will be generated containing challenge tags like this:
     </challenge>
 ...
 ```
+
+>[!warning]
+>This script has only been tested on Windows
